@@ -2,3 +2,8 @@
   font-size: 30px;
   font-weight: 700;
 }
+
+.container-fluid {
+  display: flex;
+  justify-content: space-between;
+}
