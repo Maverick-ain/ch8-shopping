@@ -19,3 +19,14 @@
   display: flex;
   align-items: center;
 } */
+
+.rc {
+  position: relative;;
+  display: flex;
+  justify-content: center;
+}
+
+.ct2 {
+  color: rgb(69, 156, 255);
+  font-weight: 700;
+}
